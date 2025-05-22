@@ -1,0 +1,13 @@
+osmium
+networkx
+numpy
+tqdm
+scipy
+pandas
+geopandas
+matplotlib
+requests
+rapidfuzz
+folium
+geopy
+scikit-learn

@@ -1,0 +1,11 @@
+geopandas
+matplotlib
+iso3166
+pandas
+upsetplot
+seaborn
+shapely
+duckduckgo-search
+tqdm
+scipy
+numpy

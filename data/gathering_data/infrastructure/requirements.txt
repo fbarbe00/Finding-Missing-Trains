@@ -1,0 +1,8 @@
+numpy
+tqdm
+scipy
+requests
+overpy
+pandas
+SPARQLWrapper
+osmium
